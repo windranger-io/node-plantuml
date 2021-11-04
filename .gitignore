@@ -4,3 +4,6 @@ node_modules/
 vendor/
 
 test/fixtures/*.png
+
+.idea/
+*.iml
